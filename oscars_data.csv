@@ -2009,25 +2009,25 @@
 1946,1947,19,,WRITING (Original Screenplay),"Norman Panama, Melvin Frank",Road to Utopia,FALSE,,,93
 1946,1947,19,,WRITING (Original Screenplay),"Muriel Box, Sydney Box",The Seventh Veil,TRUE,,,94
 1946,1947,19,WSP,WRITING (Screenplay),"Talbot Jennings, Sally Benson",Anna and the King of Siam,FALSE,,,95
-1946,1947,19,,WRITING (Screenplay),Robert E. Sherwood,The Best Years of Our Lives,TRUE,,,96
-1946,1947,19,,WRITING (Screenplay),"David Lean, Anthony Havelock-Allan, Ronald Neame",Brief Encounter,FALSE,,,97
-1946,1947,19,,WRITING (Screenplay),Anthony Veiller,The Killers,FALSE,,,98
-1946,1947,19,,WRITING (Screenplay),"Sergio Amidei, F. Fellini",Open City,FALSE,,,99
+1946,1947,19,WSP,WRITING (Screenplay),Robert E. Sherwood,The Best Years of Our Lives,TRUE,,,96
+1946,1947,19,WSP,WRITING (Screenplay),"David Lean, Anthony Havelock-Allan, Ronald Neame",Brief Encounter,FALSE,,,97
+1946,1947,19,WSP,WRITING (Screenplay),Anthony Veiller,The Killers,FALSE,,,98
+1946,1947,19,WSP,WRITING (Screenplay),"Sergio Amidei, F. Fellini",Open City,FALSE,,,99
 1947,1948,20,AR,ACTOR,Ronald Colman,A Double Life,TRUE,,,1
-1947,1948,20,,ACTOR,John Garfield,Body and Soul,FALSE,,,2
-1947,1948,20,,ACTOR,Gregory Peck,Gentleman's Agreement,FALSE,,,3
-1947,1948,20,,ACTOR,William Powell,Life with Father,FALSE,,,4
-1947,1948,20,,ACTOR,Michael Redgrave,Mourning Becomes Electra,FALSE,,,5
+1947,1948,20,AR,ACTOR,John Garfield,Body and Soul,FALSE,,,2
+1947,1948,20,AR,ACTOR,Gregory Peck,Gentleman's Agreement,FALSE,,,3
+1947,1948,20,AR,ACTOR,William Powell,Life with Father,FALSE,,,4
+1947,1948,20,AR,ACTOR,Michael Redgrave,Mourning Becomes Electra,FALSE,,,5
 1947,1948,20,,ACTOR IN A SUPPORTING ROLE,Charles Bickford,The Farmer's Daughter,FALSE,,,6
 1947,1948,20,,ACTOR IN A SUPPORTING ROLE,Thomas Gomez,Ride the Pink Horse,FALSE,,,7
 1947,1948,20,,ACTOR IN A SUPPORTING ROLE,Edmund Gwenn,Miracle on 34th Street,TRUE,,,8
 1947,1948,20,,ACTOR IN A SUPPORTING ROLE,Robert Ryan,Crossfire,FALSE,,,9
 1947,1948,20,,ACTOR IN A SUPPORTING ROLE,Richard Widmark,Kiss of Death,FALSE,,,10
-1947,1948,20,,ACTRESS,Joan Crawford,Possessed,FALSE,,,11
-1947,1948,20,,ACTRESS,Susan Hayward,Smash-Up--The Story of a Woman,FALSE,,,12
-1947,1948,20,,ACTRESS,Dorothy McGuire,Gentleman's Agreement,FALSE,,,13
-1947,1948,20,,ACTRESS,Rosalind Russell,Mourning Becomes Electra,FALSE,,,14
-1947,1948,20,,ACTRESS,Loretta Young,The Farmer's Daughter,TRUE,,,15
+1947,1948,20,AS,ACTRESS,Joan Crawford,Possessed,FALSE,,,11
+1947,1948,20,AS,ACTRESS,Susan Hayward,Smash-Up--The Story of a Woman,FALSE,,,12
+1947,1948,20,AS,ACTRESS,Dorothy McGuire,Gentleman's Agreement,FALSE,,,13
+1947,1948,20,AS,ACTRESS,Rosalind Russell,Mourning Becomes Electra,FALSE,,,14
+1947,1948,20,AS,ACTRESS,Loretta Young,The Farmer's Daughter,TRUE,,,15
 1947,1948,20,,ACTRESS IN A SUPPORTING ROLE,Ethel Barrymore,The Paradine Case,FALSE,,,16
 1947,1948,20,,ACTRESS IN A SUPPORTING ROLE,Gloria Grahame,Crossfire,FALSE,,,17
 1947,1948,20,,ACTRESS IN A SUPPORTING ROLE,Celeste Holm,Gentleman's Agreement,TRUE,,,18
@@ -2052,13 +2052,13 @@
 1947,1948,20,,DOCUMENTARY (Feature),United States Department of State Office of Information and Educational Exchange,Journey into Medicine,FALSE,,,37
 1947,1948,20,,DOCUMENTARY (Feature),"Paul Rotha, Producer",The World Is Rich,FALSE,,,38
 1947,1948,20,DCMSS,DOCUMENTARY (Short Subject),United Nations Division of Films and Visual Information,First Steps,TRUE,,,39
-1947,1948,20,,DOCUMENTARY (Short Subject),"Frederic Ullman, Jr., Producer",Passport to Nowhere,FALSE,,,40
-1947,1948,20,,DOCUMENTARY (Short Subject),Australian News & Information Bureau,School in the Mailbox,FALSE,,,41
-1947,1948,20,,FILM EDITING,Monica Collingwood,The Bishop's Wife,FALSE,,,42
-1947,1948,20,,FILM EDITING,"Francis Lyon, Robert Parrish",Body and Soul,TRUE,,,43
-1947,1948,20,,FILM EDITING,Harmon Jones,Gentleman's Agreement,FALSE,,,44
-1947,1948,20,,FILM EDITING,George White,Green Dolphin Street,FALSE,,,45
-1947,1948,20,,FILM EDITING,Fergus McDonell,Odd Man Out,FALSE,,,46
+1947,1948,20,DCMSS,DOCUMENTARY (Short Subject),"Frederic Ullman, Jr., Producer",Passport to Nowhere,FALSE,,,40
+1947,1948,20,DCMSS,DOCUMENTARY (Short Subject),Australian News & Information Bureau,School in the Mailbox,FALSE,,,41
+1947,1948,20,FE,FILM EDITING,Monica Collingwood,The Bishop's Wife,FALSE,,,42
+1947,1948,20,FE,FILM EDITING,"Francis Lyon, Robert Parrish",Body and Soul,TRUE,,,43
+1947,1948,20,FE,FILM EDITING,Harmon Jones,Gentleman's Agreement,FALSE,,,44
+1947,1948,20,FE,FILM EDITING,George White,Green Dolphin Street,FALSE,,,45
+1947,1948,20,FE,FILM EDITING,Fergus McDonell,Odd Man Out,FALSE,,,46
 1947,1948,20,MSDCP,MUSIC (Music Score of a Dramatic or Comedy Picture),Hugo Friedhofer,The Bishop's Wife,FALSE,,,47
 1947,1948,20,MSDCP,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,Captain from Castile,FALSE,,,48
 1947,1948,20,MSDCP,MUSIC (Music Score of a Dramatic or Comedy Picture),Dr. Miklos Rozsa,A Double Life,TRUE,,,49
@@ -2075,78 +2075,78 @@
 1947,1948,20,MS,MUSIC (Song),Music by Josef Myrow; Lyrics by Mack Gordon,Mother Wore Tights,FALSE,,,60
 1947,1948,20,MS,MUSIC (Song),Music by Allie Wrubel; Lyrics by Ray Gilbert,Song of the South,TRUE,,,61
 1947,1948,20,BMP,BEST MOTION PICTURE,Samuel Goldwyn Productions,The Bishop's Wife,FALSE,,,62
-1947,1948,20,,BEST MOTION PICTURE,RKO Radio,Crossfire,FALSE,,,63
-1947,1948,20,,BEST MOTION PICTURE,20th Century-Fox,Gentleman's Agreement,TRUE,,,64
-1947,1948,20,,BEST MOTION PICTURE,J. Arthur Rank-Cineguild,Great Expectations,FALSE,,,65
-1947,1948,20,,BEST MOTION PICTURE,20th Century-Fox,Miracle on 34th Street,FALSE,,,66
-1947,1948,20,,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Chip An' Dale,FALSE,,,67
-1947,1948,20,,SHORT SUBJECT (Cartoon),"Frederick Quimby, Producer",Dr. Jekyll and Mr. Mouse,FALSE,,,68
-1947,1948,20,,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Pluto's Blue Note,FALSE,,,69
-1947,1948,20,,SHORT SUBJECT (Cartoon),"George Pal, Producer",Tubby the Tuba,FALSE,,,70
-1947,1948,20,,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Tweetie Pie,TRUE,,,71
-1947,1948,20,,SHORT SUBJECT (One-reel),"Thomas Mead, Producer","Brooklyn, U.S.A.",FALSE,,,72
-1947,1948,20,,SHORT SUBJECT (One-reel),"Herbert Moulton, Producer",Good-bye Miss Turlock,TRUE,,,73
-1947,1948,20,,SHORT SUBJECT (One-reel),"Jerry Fairbanks, Producer",Moon Rockets,FALSE,,,74
-1947,1948,20,,SHORT SUBJECT (One-reel),"Pete Smith, Producer",Now You See It,FALSE,,,75
-1947,1948,20,,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",So You Want to Be in Pictures,FALSE,,,76
-1947,1948,20,,SHORT SUBJECT (Two-reel),"Harry Grey, Producer",Champagne for Two,FALSE,,,77
-1947,1948,20,,SHORT SUBJECT (Two-reel),"Irving Allen, Producer",Climbing the Matterhorn,TRUE,,,78
-1947,1948,20,,SHORT SUBJECT (Two-reel),"Thomas Mead, Producer",Fight of the Wild Stallions,FALSE,,,79
-1947,1948,20,,SHORT SUBJECT (Two-reel),"Herbert Morgan, Producer",Give Us the Earth,FALSE,,,80
-1947,1948,20,,SHORT SUBJECT (Two-reel),"Ben Blake, Producer",A Voice Is Born: The Story of Niklos Gafni,FALSE,,,81
-1947,1948,20,,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",The Bishop's Wife,TRUE,,,82
-1947,1948,20,,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Green Dolphin Street,FALSE,,,83
-1947,1948,20,,SOUND RECORDING,"Sound Service, Inc., Jack R. Whitney, Sound Director",T-Men,FALSE,,,84
+1947,1948,20,BMP,BEST MOTION PICTURE,RKO Radio,Crossfire,FALSE,,,63
+1947,1948,20,BMP,BEST MOTION PICTURE,20th Century-Fox,Gentleman's Agreement,TRUE,,,64
+1947,1948,20,BMP,BEST MOTION PICTURE,J. Arthur Rank-Cineguild,Great Expectations,FALSE,,,65
+1947,1948,20,BMP,BEST MOTION PICTURE,20th Century-Fox,Miracle on 34th Street,FALSE,,,66
+1947,1948,20,SSCT,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Chip An' Dale,FALSE,,,67
+1947,1948,20,SSCT,SHORT SUBJECT (Cartoon),"Frederick Quimby, Producer",Dr. Jekyll and Mr. Mouse,FALSE,,,68
+1947,1948,20,SSCT,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Pluto's Blue Note,FALSE,,,69
+1947,1948,20,SSCT,SHORT SUBJECT (Cartoon),"George Pal, Producer",Tubby the Tuba,FALSE,,,70
+1947,1948,20,SSCT,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Tweetie Pie,TRUE,,,71
+1947,1948,20,SSO,SHORT SUBJECT (One-reel),"Thomas Mead, Producer","Brooklyn, U.S.A.",FALSE,,,72
+1947,1948,20,SSO,SHORT SUBJECT (One-reel),"Herbert Moulton, Producer",Good-bye Miss Turlock,TRUE,,,73
+1947,1948,20,SSO,SHORT SUBJECT (One-reel),"Jerry Fairbanks, Producer",Moon Rockets,FALSE,,,74
+1947,1948,20,SSO,SHORT SUBJECT (One-reel),"Pete Smith, Producer",Now You See It,FALSE,,,75
+1947,1948,20,SSO,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",So You Want to Be in Pictures,FALSE,,,76
+1947,1948,20,SST,SHORT SUBJECT (Two-reel),"Harry Grey, Producer",Champagne for Two,FALSE,,,77
+1947,1948,20,SST,SHORT SUBJECT (Two-reel),"Irving Allen, Producer",Climbing the Matterhorn,TRUE,,,78
+1947,1948,20,SST,SHORT SUBJECT (Two-reel),"Thomas Mead, Producer",Fight of the Wild Stallions,FALSE,,,79
+1947,1948,20,SST,SHORT SUBJECT (Two-reel),"Herbert Morgan, Producer",Give Us the Earth,FALSE,,,80
+1947,1948,20,SST,SHORT SUBJECT (Two-reel),"Ben Blake, Producer",A Voice Is Born: The Story of Niklos Gafni,FALSE,,,81
+1947,1948,20,SR,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",The Bishop's Wife,TRUE,,,82
+1947,1948,20,SR,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Green Dolphin Street,FALSE,,,83
+1947,1948,20,SR,SOUND RECORDING,"Sound Service, Inc., Jack R. Whitney, Sound Director",T-Men,FALSE,,,84
 1947,1948,20,SE,SPECIAL EFFECTS,"Special Visual Effects by A. Arnold Gillespie, Warren Newcombe; Special Audible Effects by Douglas Shearer, Michael Steinore",Green Dolphin Street,TRUE,,,85
-1947,1948,20,,SPECIAL EFFECTS,"Special Visual Effects by Farciot Edouart, Devereux Jennings, Gordon Jennings, Wallace Kelley, Paul Lerpae; Special Audible Effects by George Dutton",Unconquered,FALSE,,,86
+1947,1948,20,SE,SPECIAL EFFECTS,"Special Visual Effects by Farciot Edouart, Devereux Jennings, Gordon Jennings, Wallace Kelley, Paul Lerpae; Special Audible Effects by George Dutton",Unconquered,FALSE,,,86
 1947,1948,20,WMPS,WRITING (Motion Picture Story),"Georges Chaperot, Rene Wheeler",A Cage of Nightingales,FALSE,,,87
 1947,1948,20,WMPS,WRITING (Motion Picture Story),"Herbert Clyde Lewis, Frederick Stephani",It Happened on Fifth Avenue,FALSE,,,88
 1947,1948,20,WMPS,WRITING (Motion Picture Story),Eleazar Lipsky,Kiss of Death,FALSE,,,89
 1947,1948,20,WMPS,WRITING (Motion Picture Story),Valentine Davies,Miracle on 34th Street,TRUE,,,90
 1947,1948,20,WMPS,WRITING (Motion Picture Story),"Dorothy Parker, Frank Cavett",Smash-Up--The Story of a Woman,FALSE,,,91
 1947,1948,20,WOSP,WRITING (Original Screenplay),Sidney Sheldon,The Bachelor and the Bobby-Soxer,TRUE,,,92
-1947,1948,20,,WRITING (Original Screenplay),Abraham Polonsky,Body and Soul,FALSE,,,93
-1947,1948,20,,WRITING (Original Screenplay),"Ruth Gordon, Garson Kanin",A Double Life,FALSE,,,94
-1947,1948,20,,WRITING (Original Screenplay),Charles Chaplin,Monsieur Verdoux,FALSE,,,95
-1947,1948,20,,WRITING (Original Screenplay),"Sergio Amidei, Adolfo Franci, C. G. Viola, Cesare Zavattini",Shoe-Shine,FALSE,,,96
+1947,1948,20,WOSP,WRITING (Original Screenplay),Abraham Polonsky,Body and Soul,FALSE,,,93
+1947,1948,20,WOSP,WRITING (Original Screenplay),"Ruth Gordon, Garson Kanin",A Double Life,FALSE,,,94
+1947,1948,20,WOSP,WRITING (Original Screenplay),Charles Chaplin,Monsieur Verdoux,FALSE,,,95
+1947,1948,20,WOSP,WRITING (Original Screenplay),"Sergio Amidei, Adolfo Franci, C. G. Viola, Cesare Zavattini",Shoe-Shine,FALSE,,,96
 1947,1948,20,WSP,WRITING (Screenplay),Richard Murphy,Boomerang!,FALSE,,,97
-1947,1948,20,,WRITING (Screenplay),John Paxton,Crossfire,FALSE,,,98
-1947,1948,20,,WRITING (Screenplay),Moss Hart,Gentleman's Agreement,FALSE,,,99
-1947,1948,20,,WRITING (Screenplay),"David Lean, Anthony Havelock-Allan, Ronald Neame",Great Expectations,FALSE,,,100
-1947,1948,20,,WRITING (Screenplay),George Seaton,Miracle on 34th Street,TRUE,,,101
-1948,1949,21,,ACTOR,Lew Ayres,Johnny Belinda,FALSE,,,1
-1948,1949,21,,ACTOR,Montgomery Clift,The Search,FALSE,,,2
-1948,1949,21,,ACTOR,Dan Dailey,When My Baby Smiles at Me,FALSE,,,3
-1948,1949,21,,ACTOR,Laurence Olivier,Hamlet,TRUE,,,4
-1948,1949,21,,ACTOR,Clifton Webb,Sitting Pretty,FALSE,,,5
-1948,1949,21,,ACTOR IN A SUPPORTING ROLE,Charles Bickford,Johnny Belinda,FALSE,,,6
-1948,1949,21,,ACTOR IN A SUPPORTING ROLE,JosÃ© Ferrer,Joan of Arc,FALSE,,,7
-1948,1949,21,,ACTOR IN A SUPPORTING ROLE,Oscar Homolka,I Remember Mama,FALSE,,,8
-1948,1949,21,,ACTOR IN A SUPPORTING ROLE,Walter Huston,The Treasure of the Sierra Madre,TRUE,,,9
-1948,1949,21,,ACTOR IN A SUPPORTING ROLE,Cecil Kellaway,The Luck of the Irish,FALSE,,,10
-1948,1949,21,,ACTRESS,Ingrid Bergman,Joan of Arc,FALSE,,,11
-1948,1949,21,,ACTRESS,Olivia de Havilland,The Snake Pit,FALSE,,,12
-1948,1949,21,,ACTRESS,Irene Dunne,I Remember Mama,FALSE,,,13
-1948,1949,21,,ACTRESS,Barbara Stanwyck,"Sorry, Wrong Number",FALSE,,,14
-1948,1949,21,,ACTRESS,Jane Wyman,Johnny Belinda,TRUE,,,15
-1948,1949,21,,ACTRESS IN A SUPPORTING ROLE,Barbara Bel Geddes,I Remember Mama,FALSE,,,16
-1948,1949,21,,ACTRESS IN A SUPPORTING ROLE,Ellen Corby,I Remember Mama,FALSE,,,17
-1948,1949,21,,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,Johnny Belinda,FALSE,,,18
-1948,1949,21,,ACTRESS IN A SUPPORTING ROLE,Jean Simmons,Hamlet,FALSE,,,19
-1948,1949,21,,ACTRESS IN A SUPPORTING ROLE,Claire Trevor,Key Largo,TRUE,,,20
-1948,1949,21,,ART DIRECTION (Black-and-White),Art Direction:  Roger K. Furse;  Set Decoration:  Carmen Dillon,Hamlet,TRUE,,,21
-1948,1949,21,,ART DIRECTION (Black-and-White),Art Direction:  Robert Haas;  Set Decoration:  William Wallace,Johnny Belinda,FALSE,,,22
+1947,1948,20,WSP,WRITING (Screenplay),John Paxton,Crossfire,FALSE,,,98
+1947,1948,20,WSP,WRITING (Screenplay),Moss Hart,Gentleman's Agreement,FALSE,,,99
+1947,1948,20,WSP,WRITING (Screenplay),"David Lean, Anthony Havelock-Allan, Ronald Neame",Great Expectations,FALSE,,,100
+1947,1948,20,WSP,WRITING (Screenplay),George Seaton,Miracle on 34th Street,TRUE,,,101
+1948,1949,21,AR,ACTOR,Lew Ayres,Johnny Belinda,FALSE,,,1
+1948,1949,21,AR,ACTOR,Montgomery Clift,The Search,FALSE,,,2
+1948,1949,21,AR,ACTOR,Dan Dailey,When My Baby Smiles at Me,FALSE,,,3
+1948,1949,21,AR,ACTOR,Laurence Olivier,Hamlet,TRUE,,,4
+1948,1949,21,AR,ACTOR,Clifton Webb,Sitting Pretty,FALSE,,,5
+1948,1949,21,ARSR,ACTOR IN A SUPPORTING ROLE,Charles Bickford,Johnny Belinda,FALSE,,,6
+1948,1949,21,ARSR,ACTOR IN A SUPPORTING ROLE,JosÃ© Ferrer,Joan of Arc,FALSE,,,7
+1948,1949,21,ARSR,ACTOR IN A SUPPORTING ROLE,Oscar Homolka,I Remember Mama,FALSE,,,8
+1948,1949,21,ARSR,ACTOR IN A SUPPORTING ROLE,Walter Huston,The Treasure of the Sierra Madre,TRUE,,,9
+1948,1949,21,ARSR,ACTOR IN A SUPPORTING ROLE,Cecil Kellaway,The Luck of the Irish,FALSE,,,10
+1948,1949,21,AS,ACTRESS,Ingrid Bergman,Joan of Arc,FALSE,,,11
+1948,1949,21,AS,ACTRESS,Olivia de Havilland,The Snake Pit,FALSE,,,12
+1948,1949,21,AS,ACTRESS,Irene Dunne,I Remember Mama,FALSE,,,13
+1948,1949,21,AS,ACTRESS,Barbara Stanwyck,"Sorry, Wrong Number",FALSE,,,14
+1948,1949,21,AS,ACTRESS,Jane Wyman,Johnny Belinda,TRUE,,,15
+1948,1949,21,ASSR,ACTRESS IN A SUPPORTING ROLE,Barbara Bel Geddes,I Remember Mama,FALSE,,,16
+1948,1949,21,ASSR,ACTRESS IN A SUPPORTING ROLE,Ellen Corby,I Remember Mama,FALSE,,,17
+1948,1949,21,ASSR,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,Johnny Belinda,FALSE,,,18
+1948,1949,21,ASSR,ACTRESS IN A SUPPORTING ROLE,Jean Simmons,Hamlet,FALSE,,,19
+1948,1949,21,ASSR,ACTRESS IN A SUPPORTING ROLE,Claire Trevor,Key Largo,TRUE,,,20
+1948,1949,21,ADBW,ART DIRECTION (Black-and-White),Art Direction:  Roger K. Furse;  Set Decoration:  Carmen Dillon,Hamlet,TRUE,,,21
+1948,1949,21,ADBW,ART DIRECTION (Black-and-White),Art Direction:  Robert Haas;  Set Decoration:  William Wallace,Johnny Belinda,FALSE,,,22
 1948,1949,21,ADC,ART DIRECTION (Color),"Art Direction:  Richard Day;  Set Decoration:  Edwin Casey Roberts, Joseph Kish",Joan of Arc,FALSE,,,23
-1948,1949,21,,ART DIRECTION (Color),Art Direction:  Hein Heckroth;  Set Decoration:  Arthur Lawson,The Red Shoes,TRUE,,,24
+1948,1949,21,ADC,ART DIRECTION (Color),Art Direction:  Hein Heckroth;  Set Decoration:  Arthur Lawson,The Red Shoes,TRUE,,,24
 1948,1949,21,CBW,CINEMATOGRAPHY (Black-and-White),"Charles B. Lang, Jr.",A Foreign Affair,FALSE,,,25
-1948,1949,21,,CINEMATOGRAPHY (Black-and-White),Nicholas Musuraca,I Remember Mama,FALSE,,,26
-1948,1949,21,,CINEMATOGRAPHY (Black-and-White),Ted McCord,Johnny Belinda,FALSE,,,27
-1948,1949,21,,CINEMATOGRAPHY (Black-and-White),William Daniels,The Naked City,TRUE,,,28
-1948,1949,21,,CINEMATOGRAPHY (Black-and-White),Joseph August,Portrait of Jennie,FALSE,,,29
+1948,1949,21,CBW,CINEMATOGRAPHY (Black-and-White),Nicholas Musuraca,I Remember Mama,FALSE,,,26
+1948,1949,21,CBW,CINEMATOGRAPHY (Black-and-White),Ted McCord,Johnny Belinda,FALSE,,,27
+1948,1949,21,CBW,CINEMATOGRAPHY (Black-and-White),William Daniels,The Naked City,TRUE,,,28
+1948,1949,21,CBW,CINEMATOGRAPHY (Black-and-White),Joseph August,Portrait of Jennie,FALSE,,,29
 1948,1949,21,CCL,CINEMATOGRAPHY (Color),Charles G. Clarke,Green Grass of Wyoming,FALSE,,,30
-1948,1949,21,,CINEMATOGRAPHY (Color),"Joseph Valentine, William V. Skall, Winton Hoch",Joan of Arc,TRUE,,,31
-1948,1949,21,,CINEMATOGRAPHY (Color),William Snyder,The Loves of Carmen,FALSE,,,32
-1948,1949,21,,CINEMATOGRAPHY (Color),Robert Planck,The Three Musketeers,FALSE,,,33
+1948,1949,21,CCL,CINEMATOGRAPHY (Color),"Joseph Valentine, William V. Skall, Winton Hoch",Joan of Arc,TRUE,,,31
+1948,1949,21,CCL,CINEMATOGRAPHY (Color),William Snyder,The Loves of Carmen,FALSE,,,32
+1948,1949,21,CCL,CINEMATOGRAPHY (Color),Robert Planck,The Three Musketeers,FALSE,,,33
 1948,1949,21,CDBW,COSTUME DESIGN (Black-and-White),Irene,B. F.'s Daughter,FALSE,,,34
 1948,1949,21,CDBW,COSTUME DESIGN (Black-and-White),Roger K. Furse,Hamlet,TRUE,,,35
 1948,1949,21,CDCL,COSTUME DESIGN (Color),"Edith Head, Gile Steele",The Emperor Waltz,FALSE,,,36
@@ -2157,15 +2157,15 @@
 1948,1949,21,D,DIRECTING,Anatole Litvak,The Snake Pit,FALSE,,,41
 1948,1949,21,D,DIRECTING,John Huston,The Treasure of the Sierra Madre,TRUE,,,42
 1948,1949,21,DCMF,DOCUMENTARY (Feature),"Janice Loeb, Producer",The Quiet One,FALSE,,,43
-1948,1949,21,,DOCUMENTARY (Feature),"Orville O. Dull, Producer",The Secret Land,TRUE,,,44
-1948,1949,21,,DOCUMENTARY (Short Subject),"Herbert Morgan, Producer",Heart to Heart,FALSE,,,45
-1948,1949,21,,DOCUMENTARY (Short Subject),United States Army Air Force,Operation Vittles,FALSE,,,46
-1948,1949,21,,DOCUMENTARY (Short Subject),United States Army,Toward Independence,TRUE,,,47
-1948,1949,21,,FILM EDITING,Frank Sullivan,Joan of Arc,FALSE,,,48
-1948,1949,21,,FILM EDITING,David Weisbart,Johnny Belinda,FALSE,,,49
-1948,1949,21,,FILM EDITING,Paul Weatherwax,The Naked City,TRUE,,,50
-1948,1949,21,,FILM EDITING,Christian Nyby,Red River,FALSE,,,51
-1948,1949,21,,FILM EDITING,Reginald Mills,The Red Shoes,FALSE,,,52
+1948,1949,21,DCMF,DOCUMENTARY (Feature),"Orville O. Dull, Producer",The Secret Land,TRUE,,,44
+1948,1949,21,DCMSS,DOCUMENTARY (Short Subject),"Herbert Morgan, Producer",Heart to Heart,FALSE,,,45
+1948,1949,21,DCMSS,DOCUMENTARY (Short Subject),United States Army Air Force,Operation Vittles,FALSE,,,46
+1948,1949,21,DCMSS,DOCUMENTARY (Short Subject),United States Army,Toward Independence,TRUE,,,47
+1948,1949,21,FE,FILM EDITING,Frank Sullivan,Joan of Arc,FALSE,,,48
+1948,1949,21,FE,FILM EDITING,David Weisbart,Johnny Belinda,FALSE,,,49
+1948,1949,21,FE,FILM EDITING,Paul Weatherwax,The Naked City,TRUE,,,50
+1948,1949,21,FE,FILM EDITING,Christian Nyby,Red River,FALSE,,,51
+1948,1949,21,FE,FILM EDITING,Reginald Mills,The Red Shoes,FALSE,,,52
 1948,1949,21,MSDCP,MUSIC (Music Score of a Dramatic or Comedy Picture),William Walton,Hamlet,FALSE,,,53
 1948,1949,21,MSDCP,MUSIC (Music Score of a Dramatic or Comedy Picture),Hugo Friedhofer,Joan of Arc,FALSE,,,54
 1948,1949,21,MSDCP,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,Johnny Belinda,FALSE,,,55
@@ -2176,51 +2176,51 @@
 1948,1949,21,MSMP,MUSIC (Scoring of a Musical Picture),Lennie Hayton,The Pirate,FALSE,,,60
 1948,1949,21,MSMP,MUSIC (Scoring of a Musical Picture),Ray Heindorf,Romance on the High Seas,FALSE,,,61
 1948,1949,21,MSMP,MUSIC (Scoring of a Musical Picture),Alfred Newman,When My Baby Smiles at Me,FALSE,,,62
-1948,1949,21,,MUSIC (Song),Music and Lyrics by Jay Livingston and Ray Evans,The Paleface,TRUE,,,63
-1948,1949,21,,MUSIC (Song),Music by Harold Arlen; Lyrics by Leo Robin,Casbah,FALSE,,,64
-1948,1949,21,,MUSIC (Song),Music by Jule Styne; Lyrics by Sammy Cahn,Romance on the High Seas,FALSE,,,65
-1948,1949,21,,MUSIC (Song),Music by Frederick Hollander; Lyrics by Leo Robin,That Lady in Ermine,FALSE,,,66
-1948,1949,21,,MUSIC (Song),Music and Lyrics by Ramey Idriss and George Tibbles,Wet Blanket Policy,FALSE,,,67
-1948,1949,21,,BEST MOTION PICTURE,J. Arthur Rank-Two Cities Films,Hamlet,TRUE,,,68
-1948,1949,21,,BEST MOTION PICTURE,Warner Bros.,Johnny Belinda,FALSE,,,69
-1948,1949,21,,BEST MOTION PICTURE,J. Arthur Rank-Archers,The Red Shoes,FALSE,,,70
-1948,1949,21,,BEST MOTION PICTURE,20th Century-Fox,The Snake Pit,FALSE,,,71
-1948,1949,21,,BEST MOTION PICTURE,Warner Bros.,The Treasure of the Sierra Madre,FALSE,,,72
-1948,1949,21,,SHORT SUBJECT (Cartoon),"Fred Quimby, Producer",The Little Orphan,TRUE,,,73
-1948,1949,21,,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Mickey and the Seal,FALSE,,,74
-1948,1949,21,,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Mouse Wreckers,FALSE,,,75
-1948,1949,21,,SHORT SUBJECT (Cartoon),United Productions of America,Robin Hoodlum,FALSE,,,76
-1948,1949,21,,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Tea for Two Hundred,FALSE,,,77
-1948,1949,21,,SHORT SUBJECT (One-reel),"Herbert Moulton, Producer",Annie Was a Wonder,FALSE,,,78
-1948,1949,21,,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",Cinderella Horse,FALSE,,,79
-1948,1949,21,,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",So You Want to Be on the Radio,FALSE,,,80
-1948,1949,21,,SHORT SUBJECT (One-reel),"Edmund H. Reek, Producer",Symphony of a City,TRUE,,,81
-1948,1949,21,,SHORT SUBJECT (One-reel),"Pete Smith, Producer",You Can't Win,FALSE,,,82
-1948,1949,21,,SHORT SUBJECT (Two-reel),"Gordon Hollingshead, Producer",Calgary Stampede,FALSE,,,83
-1948,1949,21,,SHORT SUBJECT (Two-reel),"Herbert Morgan, Producer",Going to Blazes,FALSE,,,84
-1948,1949,21,,SHORT SUBJECT (Two-reel),"Harry Grey, Producer",Samba-Mania,FALSE,,,85
-1948,1949,21,,SHORT SUBJECT (Two-reel),"Walt Disney, Producer",Seal Island,TRUE,,,86
-1948,1949,21,,SHORT SUBJECT (Two-reel),"Thomas Mead, Producer",Snow Capers,FALSE,,,87
-1948,1949,21,,SOUND RECORDING,"Warner Bros. Studio Sound Department, Col. Nathan O. Levinson, Sound Director",Johnny Belinda,FALSE,,,88
-1948,1949,21,,SOUND RECORDING,"Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",Moonrise,FALSE,,,89
-1948,1949,21,,SOUND RECORDING,"20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",The Snake Pit,TRUE,,,90
-1948,1949,21,,SPECIAL EFFECTS,"Special Visual Effects by Ralph Hammeras, Fred Sersen, Edward Snyder; Special Audible Effects by Roger Heman",Deep Waters,FALSE,,,91
-1948,1949,21,,SPECIAL EFFECTS,"Special Visual Effects by Paul Eagler, J. McMillan Johnson, Russell Shearman, Clarence Slifer; Special Audible Effects by Charles Freeman, James G. Stewart",Portrait of Jennie,TRUE,,,92
+1948,1949,21,MS,MUSIC (Song),Music and Lyrics by Jay Livingston and Ray Evans,The Paleface,TRUE,,,63
+1948,1949,21,MS,MUSIC (Song),Music by Harold Arlen; Lyrics by Leo Robin,Casbah,FALSE,,,64
+1948,1949,21,MS,MUSIC (Song),Music by Jule Styne; Lyrics by Sammy Cahn,Romance on the High Seas,FALSE,,,65
+1948,1949,21,MS,MUSIC (Song),Music by Frederick Hollander; Lyrics by Leo Robin,That Lady in Ermine,FALSE,,,66
+1948,1949,21,MS,MUSIC (Song),Music and Lyrics by Ramey Idriss and George Tibbles,Wet Blanket Policy,FALSE,,,67
+1948,1949,21,BMP,BEST MOTION PICTURE,J. Arthur Rank-Two Cities Films,Hamlet,TRUE,,,68
+1948,1949,21,BMP,BEST MOTION PICTURE,Warner Bros.,Johnny Belinda,FALSE,,,69
+1948,1949,21,BMP,BEST MOTION PICTURE,J. Arthur Rank-Archers,The Red Shoes,FALSE,,,70
+1948,1949,21,BMP,BEST MOTION PICTURE,20th Century-Fox,The Snake Pit,FALSE,,,71
+1948,1949,21,BMP,BEST MOTION PICTURE,Warner Bros.,The Treasure of the Sierra Madre,FALSE,,,72
+1948,1949,21,SSCT,SHORT SUBJECT (Cartoon),"Fred Quimby, Producer",The Little Orphan,TRUE,,,73
+1948,1949,21,SSCT,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Mickey and the Seal,FALSE,,,74
+1948,1949,21,SSCT,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Mouse Wreckers,FALSE,,,75
+1948,1949,21,SSCT,SHORT SUBJECT (Cartoon),United Productions of America,Robin Hoodlum,FALSE,,,76
+1948,1949,21,SSCT,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Tea for Two Hundred,FALSE,,,77
+1948,1949,21,SSO,SHORT SUBJECT (One-reel),"Herbert Moulton, Producer",Annie Was a Wonder,FALSE,,,78
+1948,1949,21,SSO,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",Cinderella Horse,FALSE,,,79
+1948,1949,21,SSO,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",So You Want to Be on the Radio,FALSE,,,80
+1948,1949,21,SSO,SHORT SUBJECT (One-reel),"Edmund H. Reek, Producer",Symphony of a City,TRUE,,,81
+1948,1949,21,SSO,SHORT SUBJECT (One-reel),"Pete Smith, Producer",You Can't Win,FALSE,,,82
+1948,1949,21,SST,SHORT SUBJECT (Two-reel),"Gordon Hollingshead, Producer",Calgary Stampede,FALSE,,,83
+1948,1949,21,SST,SHORT SUBJECT (Two-reel),"Herbert Morgan, Producer",Going to Blazes,FALSE,,,84
+1948,1949,21,SST,SHORT SUBJECT (Two-reel),"Harry Grey, Producer",Samba-Mania,FALSE,,,85
+1948,1949,21,SST,SHORT SUBJECT (Two-reel),"Walt Disney, Producer",Seal Island,TRUE,,,86
+1948,1949,21,SST,SHORT SUBJECT (Two-reel),"Thomas Mead, Producer",Snow Capers,FALSE,,,87
+1948,1949,21,SR,SOUND RECORDING,"Warner Bros. Studio Sound Department, Col. Nathan O. Levinson, Sound Director",Johnny Belinda,FALSE,,,88
+1948,1949,21,SR,SOUND RECORDING,"Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",Moonrise,FALSE,,,89
+1948,1949,21,SR,SOUND RECORDING,"20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",The Snake Pit,TRUE,,,90
+1948,1949,21,SR,SPECIAL EFFECTS,"Special Visual Effects by Ralph Hammeras, Fred Sersen, Edward Snyder; Special Audible Effects by Roger Heman",Deep Waters,FALSE,,,91
+1948,1949,21,SR,SPECIAL EFFECTS,"Special Visual Effects by Paul Eagler, J. McMillan Johnson, Russell Shearman, Clarence Slifer; Special Audible Effects by Charles Freeman, James G. Stewart",Portrait of Jennie,TRUE,,,92
 1948,1949,21,WMPS,WRITING (Motion Picture Story),"Frances Flaherty, Robert Flaherty",Louisiana Story,FALSE,,,93
-1948,1949,21,,WRITING (Motion Picture Story),Malvin Wald,The Naked City,FALSE,,,94
-1948,1949,21,,WRITING (Motion Picture Story),Borden Chase,Red River,FALSE,,,95
-1948,1949,21,,WRITING (Motion Picture Story),Emeric Pressburger,The Red Shoes,FALSE,,,96
-1948,1949,21,,WRITING (Motion Picture Story),"Richard Schweizer, David Wechsler",The Search,TRUE,,,97
+1948,1949,21,WMPS,WRITING (Motion Picture Story),Malvin Wald,The Naked City,FALSE,,,94
+1948,1949,21,WMPS,WRITING (Motion Picture Story),Borden Chase,Red River,FALSE,,,95
+1948,1949,21,WMPS,WRITING (Motion Picture Story),Emeric Pressburger,The Red Shoes,FALSE,,,96
+1948,1949,21,WMPS,WRITING (Motion Picture Story),"Richard Schweizer, David Wechsler",The Search,TRUE,,,97
 1948,1949,21,WSP,WRITING (Screenplay),"Charles Brackett, Billy Wilder, Richard L. Breen",A Foreign Affair,FALSE,,,98
-1948,1949,21,,WRITING (Screenplay),"Irmgard Von Cube, Allen Vincent",Johnny Belinda,FALSE,,,99
-1948,1949,21,,WRITING (Screenplay),"Richard Schweizer, David Wechsler",The Search,FALSE,,,100
-1948,1949,21,,WRITING (Screenplay),"Frank Partos, Millen Brand",The Snake Pit,FALSE,,,101
-1948,1949,21,,WRITING (Screenplay),John Huston,The Treasure of the Sierra Madre,TRUE,,,102
-1949,1950,22,,ACTOR,Broderick Crawford,All the King's Men,TRUE,,,1
-1949,1950,22,,ACTOR,Kirk Douglas,Champion,FALSE,,,2
-1949,1950,22,,ACTOR,Gregory Peck,Twelve O'Clock High,FALSE,,,3
-1949,1950,22,,ACTOR,Richard Todd,The Hasty Heart,FALSE,,,4
-1949,1950,22,,ACTOR,John Wayne,Sands of Iwo Jima,FALSE,,,5
+1948,1949,21,WSP,WRITING (Screenplay),"Irmgard Von Cube, Allen Vincent",Johnny Belinda,FALSE,,,99
+1948,1949,21,WSP,WRITING (Screenplay),"Richard Schweizer, David Wechsler",The Search,FALSE,,,100
+1948,1949,21,WSP,WRITING (Screenplay),"Frank Partos, Millen Brand",The Snake Pit,FALSE,,,101
+1948,1949,21,WSP,WRITING (Screenplay),John Huston,The Treasure of the Sierra Madre,TRUE,,,102
+1949,1950,22,AR,ACTOR,Broderick Crawford,All the King's Men,TRUE,,,1
+1949,1950,22,AR,ACTOR,Kirk Douglas,Champion,FALSE,,,2
+1949,1950,22,AR,ACTOR,Gregory Peck,Twelve O'Clock High,FALSE,,,3
+1949,1950,22,AR,ACTOR,Richard Todd,The Hasty Heart,FALSE,,,4
+1949,1950,22,AR,ACTOR,John Wayne,Sands of Iwo Jima,FALSE,,,5
 1949,1950,22,,ACTOR IN A SUPPORTING ROLE,John Ireland,All the King's Men,FALSE,,,6
 1949,1950,22,,ACTOR IN A SUPPORTING ROLE,Dean Jagger,Twelve O'Clock High,TRUE,,,7
 1949,1950,22,,ACTOR IN A SUPPORTING ROLE,Arthur Kennedy,Champion,FALSE,,,8
